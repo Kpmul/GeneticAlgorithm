@@ -1,0 +1,6 @@
+
+
+interface GAController {
+    
+    void run();
+}
